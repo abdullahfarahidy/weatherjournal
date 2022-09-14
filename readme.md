@@ -9,7 +9,7 @@
 * I used ES6 when writing the code.
 * I made some modifying to HTML and CSS files to make the layout more simple as I can.
 * I added a small tag to display the error message which comes from API.
-* I used extention on the URL (&units=metric) to get the Celsius Temperature.
+* I used extention on the URL (&units=) to get the Celsius Temperature.
 * I wrote comments to make the code more readable.
 
  // How to use // 
